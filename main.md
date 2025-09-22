@@ -76,9 +76,9 @@ indifferent              - lhostejný, nezajímavý
 aka                      - also known as
 I have not slept in days - Už dny jsem nespal
 
-kritický stav (pacienta):
- critical condition - high risk of death within 24 hours
- serious condition  - reduced risk of death within 24 hours, but requiring frequent observation
+## Kritický stav (pacienta)
+* critical condition - high risk of death within 24 hours
+* serious condition  - reduced risk of death within 24 hours, but requiring frequent observation
 
 business trip - pracovní/služební cesta
 two grand     - dva tácy (tisíce)
@@ -138,42 +138,44 @@ good value for your money - dobrý poměr cena výkon
 gnosis                    - gnose (nadsmyslové poznání boha vedoucí ke spáse)
 nigh                      - blízko (the end is nigh)
 
-...
-SAILING:
-port 	     - levobok;  hard a port       - ostře do leva
-starboard    - pravobok; hard to starboard - ostře do prava
-cruise ship  - výletní loď
-HMS          - his/her majesty's ship
-broadside    - námoř. salva ze všech děl na jedné straně lodi, bokem, nadhladinový bok lodi
-foreyard     - nejnižší ráhno předního stěžně
-whitecap     - zpětný hřeben vlny (a wave with a white broken crest (hřeben vlny))
-High sea     - volné moře, za hranicích teritoriálních vod
-West Indies  - Antily
-doldrums     - From the place in the ocean near the equator where there are sudden periods of calm, a sailing ship caught in this area can be stuck there because of a lack of wind
-.
-creek (říčka), gulf, bay - záliv:
-creek  - narrow area of sea (Br), small river (Ame)
-gulf   - large area of sea partly surrounded by land
-bay    - area partly surrounded by a wide curve of land
+---
+## Sailing
+* port 	     - levobok;  hard a port       - ostře do leva
+* starboard    - pravobok; hard to starboard - ostře do prava
+* cruise ship  - výletní loď
+* HMS          - his/her majesty's ship
+* broadside    - námoř. salva ze všech děl na jedné straně lodi, bokem, nadhladinový bok lodi
+* foreyard     - nejnižší ráhno předního stěžně
+* whitecap     - zpětný hřeben vlny (a wave with a white broken crest (hřeben vlny))
+* High sea     - volné moře, za hranicích teritoriálních vod
+* West Indies  - Antily
+* doldrums     - From the place in the ocean near the equator where there are sudden periods of calm, a sailing ship caught in this area can be stuck there because of a lack of wind
+
+---
+### Zálivy (Creeks, Gulfs, Bays)
+* creek  - narrow area of sea (Br), small river (Ame)
+* gulf   - large area of sea partly surrounded by land
+* bay    - area partly surrounded by a wide curve of land
 (creek>gulf>bay) při pohledu z moře je 'creek' nejvíce opklopen pevninou a 'bay' nejméně
-.
-headland, cape, promontory - mys:
-headland   - peninsula but usually smaller
-cape       - headland that affects the flow surface and subsurface ocean currents (Cape of Good Hope)
-promontory - high point of land (usually with cliffs)
+
+---
+### Mysy (Headlands, Capes, Promontories)
+* headland   - peninsula but usually smaller
+* cape       - headland that affects the flow surface and subsurface ocean currents (Cape of Good Hope)
+* promontory - high point of land (usually with cliffs)
 (Hornův mys - The Horn)
-...
+---
 
 Teenage kicks - the teenage variety of fun
 you will be speaking on behalf of the team - budete mluvit za tým (zastupovat)
 
-...
-Avantasia (AVAlon - faNTASIA):
-Misprizing - Chastising  Opovrhování - Kárání
-Subhuman fragmentizing   Nelidské tříštění
-Sensation - Aberration   Pocit - Poblouznění
-Repulsive tantalizing    Odpudivé podráždění
-....
+---
+## Avantasia (AVAlon - faNTASIA)
+* Misprizing - Chastising  Opovrhování - Kárání
+* Subhuman fragmentizing   Nelidské tříštění
+* Sensation - Aberration   Pocit - Poblouznění
+* Repulsive tantalizing    Odpudivé podráždění
+---
 
 Don't you... = Do you not..
 by far  - zdaleka (na konec věty)
